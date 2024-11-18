@@ -1,0 +1,2 @@
+confige SHIELD_TUBETEST
+    def_bool &(shields_last_contains, TubeTest)
