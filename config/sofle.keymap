@@ -70,7 +70,7 @@
                          &trans        &trans        &trans        &trans  &trans    &trans  &trans  &trans                &trans                 &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp F11 F12>, <&inc_dec_kp PG_UP PG_DN>;
+            sensor-bindings = <&inc_dec_kp F12 F11>, <&inc_dec_kp PG_UP PG_DN>;
         };
 
         raise_layer {
